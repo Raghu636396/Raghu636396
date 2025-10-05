@@ -1,4 +1,4 @@
-# 👋 Hi, I'm   Raghu s  
+# 👋 Hi, I'm   Raghu S 
 
 🎓 *Network Engineer Student | CCNA Certified | CCNP Switching & Routing (Ongoing)*  
 🚀 *Continuing learning with CCIE Enterprise Infrastructure track*
